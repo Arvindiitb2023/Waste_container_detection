@@ -1,0 +1,6 @@
+path: '/content/drive/MyDrive/Zero_waste_dataset/data'
+train: 'images/train'
+val: 'images/train' 
+
+names:
+  0: Waste container
